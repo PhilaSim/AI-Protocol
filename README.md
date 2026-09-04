@@ -1,49 +1,56 @@
 # AI-Protocol
 
-A sleek web-based interface that explores real-time human–AI interaction through dynamic input analysis, intelligent responses, and an intuitive user experience.
+> An experimental web interface exploring human–AI interaction, conversational UI patterns, and dynamic response experiences.
 
 ## Overview
 
-**AI-Protocol** is an experimental project focused on the interaction layer between people and AI systems. It provides a foundation for exploring conversational interfaces, response flows, and modern AI-inspired UI patterns.
+**AI-Protocol** is a frontend-focused project that explores the interaction layer between users and AI systems. It provides a foundation for experimenting with conversational workflows, real-time feedback, and modern AI-inspired interface design.
 
-## Highlights
+## Features
 
-- 🤖 AI-inspired conversational interface
-- 💬 Dynamic input and response experience
-- ⚡ Real-time interaction flow
-- 🎨 Modern, intuitive UI
-- 🧪 Built as an experimentation and learning project
+- Conversational interface concept
+- Dynamic input and response flow
+- Real-time interaction experience
+- Modern, intuitive user interface
+- Foundation for future AI integrations
 
-## Project Goals
+## Project Objectives
 
 - Explore human–AI interaction patterns
 - Experiment with conversational UI design
-- Build a foundation for future AI-powered functionality
-- Practice creating responsive, interactive web applications
+- Practice interactive and responsive web development
+- Establish a foundation for AI-powered functionality
 
 ## Getting Started
 
-Clone the repository and follow the project's existing setup instructions.
+Clone the repository:
 
 ```bash
 git clone https://github.com/PhilaSim/AI-Protocol.git
 cd AI-Protocol
 ```
 
-Install any project dependencies required by the application and start the development environment using the configured scripts.
+Install any dependencies defined by the project and use the configured development script to run the application locally.
 
-## Future Ideas
+## Potential Enhancements
 
-Potential extensions include connecting the interface to a real AI model, conversation history, streaming responses, prompt management, and richer interaction controls.
+Future development could include:
+
+- Integration with a production AI model
+- Persistent conversation history
+- Streaming responses
+- Prompt management
+- Enhanced interaction controls
+- Improved error and loading states
 
 ## Contributing
 
-Ideas and improvements are welcome. Open an issue or submit a pull request with a clear explanation of your changes.
+Ideas, bug reports, and improvements are welcome. Open an issue for discussion or submit a pull request with a concise description of your changes.
 
 ## License
 
-No license has been specified for this repository yet.
+No license has been specified for this repository.
 
----
+## Author
 
-Built by **PhilaSim**.
+**PhilaSim**
